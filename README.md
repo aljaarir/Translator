@@ -30,10 +30,3 @@ This is a simple web application that allows users to translate text using the M
 4. Run the application: `python app.py`
 5. Open your browser and navigate to http://localhost:5000 to use the app.
 
-## Contributing
-
-Feel free to contribute by opening issues or pull requests. Any feedback or improvement suggestions are welcome.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
